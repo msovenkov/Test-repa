@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 279,
-    "width": 133,
+    "width": 320,
     "x": 757,
     "y": 129
   },
@@ -45,6 +45,10 @@
     {
       "class": "shapeGroup",
       "id": "93521398-F78A-42DA-B993-04C28E73AF2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF0F6CE7-4534-46A2-965A-1DD470C3AB09"
     }
   ],
   "name": "r",
